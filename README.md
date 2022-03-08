@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cat
+- 👋 Hi, I’m cs-c92
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data projects
